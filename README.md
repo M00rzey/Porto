@@ -6,7 +6,7 @@ A personal portfolio built with plain HTML and CSS. It has no build step or pack
 
 1. Update the intro and About copy in `index.html` as your bio or focus changes.
 2. Update the project and stack details in the Work section.
-3. The footer GitHub link already points to [M00rzey](https://github.com/M00rzey). Replace it if you use another account; update the LinkedIn and email placeholders (`linkedin.com` and `hello@example.com`) with your own.
+3. The footer links point to [GitHub](https://github.com/M00rzey) and [LinkedIn](https://www.linkedin.com/in/mora-surya-premana-5540bb368/). Replace them if you use other accounts; update the email placeholder (`hello@example.com`) with your own.
 4. Add more project cards by copying the `.project-card` block and changing its text and illustration.
 5. Adjust colors, spacing, and typography near the top of `styles.css`.
 
